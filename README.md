@@ -1,7 +1,7 @@
 # Home_Sales
 
 ## Overview
-In this challenge, we used SparkSQL to look at home sales data. By using SparkSQL, we were able to create temporary views, created queries, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+In this challenge, we used SparkSQL to look at home sales data. By using SparkSQL, we were able to create temporary views, create queries, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 ## Runtimes
 In this challenge, we used cached and uncached home sales data to determine the runtimes and compare the cached and uncached runtimes.
